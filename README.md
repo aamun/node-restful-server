@@ -14,12 +14,12 @@ It is a example of Resful Api for users accounts.
 1. Clone the repository
 
 2. Install dependencies
-    npm install
+    `npm install`
 
 3. Run MongoDB server
 
 4. Run web server application
-    node server.js
+    `node server.js`
 
 ###  Reference:
 - http://coenraets.org/blog/2012/10/creating-a-rest-api-using-node-js-express-and-mongodb/
